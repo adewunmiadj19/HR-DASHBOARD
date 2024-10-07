@@ -20,7 +20,7 @@
 
   The following Power Bi and Excel skills were demonstrated:
 -	Dax functions
--	Power Query (Data cleaning, custom column, column with condition)
+-	Power Query (Data cleaning, column from examples, column with condition)
 -	Tooltips
 -	Excel functions
 
