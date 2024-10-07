@@ -13,7 +13,7 @@
 
 -	What is the total count of employee?
 -	Identify the rate of employee due for promotion compared to the rate of employee to be retrenched
--	Extract the names of employee due for promotion that accidentally have their names on retrenchment list so as to be compensated.
+-	Extract the names of employee due for promotion that coincidentally have their names on retrenchment list so as to be compensated.
 -	What is the highest rate of retrenchment and promotion by department?
 
 ## Skills Demonstrated
@@ -40,9 +40,9 @@ There are no modelling to this dataset, as it contains only one table.
 
 ## Observation
 
--	Total number of employee are 1,505, comprising of 905 males and 600 females . 5% of the total employees are due for promotion. They are being evaluated by their tenure in the organization. Employee who have worked for 10 years and above should be promoted.
+-	Total number of employee are 1,505, comprising of 905 males and 600 females . 5% of the total employees are due for promotion. They are being evaluated by the year they were last promoted. Employee who was last promoted in the last 10 years was due for promotion 
 -	Due to the high cost on the part of the organization, organization use retrenchment as cost reduction mechanism to deplete personnel cost. 7% of the total employee are put up for retrenchment. Employee who have stayed for 20 years and above are put up for retrenchment
--	Employee whose name are on promotion list and as well on the retrenchment list were identified so as to be compensated with the severance benefits.
+-	10 names of employee whose name are on promotion list and as well on the retrenchment list were identified so as to be compensated with the severance benefits.
 -	The department that has the highest retrenchment list is the Human Resource department which has 80% employee to be retrenched, and Research and development department has the highest promotion list which is 44.44%.
 
 ## Recommendation
